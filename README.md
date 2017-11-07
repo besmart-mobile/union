@@ -9,7 +9,6 @@ annotationProcessor 'com.github.besmart-mobile.union:processor:master-SNAPSHOT'
 
 Annotate your root package with ```@UnionPackage``` annotation.
 
-
 # Get gson support
 
 ```
