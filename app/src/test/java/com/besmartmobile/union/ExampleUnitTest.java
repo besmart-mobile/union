@@ -27,7 +27,6 @@ public class ExampleUnitTest {
 
     @Test
     public void union_ext_client_test() throws Exception {
-
         SomeUnion variant1 = variant1();
         String s = match(variant1,
                 v1 -> "v1",
